@@ -1,0 +1,5 @@
+# the files that will be ignirted to commited in git reposiitory 
+
+password.txt
+
+temp/*
